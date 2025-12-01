@@ -2,6 +2,7 @@
 	float : right;
 }
 .el_3{
-	width : 33%;
-	display : inline-block;
+	margin: 30px;
+	display : grid;
+	grid-template-columns: 33% 33% 33%;
 }
