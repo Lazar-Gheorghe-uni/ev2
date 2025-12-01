@@ -1,4 +1,7 @@
 body{
+	font-family: 'JetBrains Mono', monospace;
+	border-radius: 8px;
+	padding: 4px 8px;
 	background-color : #1f1f1fff;
 	color : #a8a8a8ff;
 }
