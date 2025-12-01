@@ -1,0 +1,22 @@
+body{
+	background-color : #1f1f1fff;
+	color : #a8a8a8ff;
+}
+p{
+	margin : 30px;
+}
+h1{
+	clear : both;
+	color : #b8b8b8ff;
+	margin : 10px;
+}
+th{
+	color : #b8b8f8ff;
+}
+td{
+	text-align : center;
+}
+ul{
+	margin : 30px;
+}
+
